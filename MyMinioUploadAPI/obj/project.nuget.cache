@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "yXn3ehXDA9w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reuel Bandeira\\Documents\\teste\\MyMinioUploadAPI\\MyMinioUploadAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\minio\\3.0.9\\minio.3.0.9.nupkg.sha512",
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\restsharp\\106.3.1\\restsharp.106.3.1.nupkg.sha512",
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\system.reactive.linq\\4.0.0\\system.reactive.linq.4.0.0.nupkg.sha512",
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Reuel Bandeira\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

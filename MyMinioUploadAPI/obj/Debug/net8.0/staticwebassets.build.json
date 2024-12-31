@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yMOL6u0/IU6X7fu1LrGSwUsEj4Qf0Nwkdxq3P627i3Y=",
+  "Source": "MyMinioUploadAPI",
+  "BasePath": "_content/MyMinioUploadAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
